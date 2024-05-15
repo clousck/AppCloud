@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCloud.Entidades", "AppCloud.Entidades\AppCloud.Entidades.csproj", "{9273F912-E499-4F86-AA7B-99C29454C57E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppCloud.Entidades", "AppCloud.Entidades\AppCloud.Entidades.csproj", "{9273F912-E499-4F86-AA7B-99C29454C57E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCloud.API", "AppCloud.API\AppCloud.API.csproj", "{BA1D66D0-C42B-4089-959D-D9DB1F6E26DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppCloud.API", "AppCloud.API\AppCloud.API.csproj", "{BA1D66D0-C42B-4089-959D-D9DB1F6E26DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCloud.ConsumeAPI", "AppCloud.ConsumeAPI\AppCloud.ConsumeAPI.csproj", "{B325AD7D-1918-4C4F-A8C8-4E1D00806A39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppCloud.ConsumeAPI", "AppCloud.ConsumeAPI\AppCloud.ConsumeAPI.csproj", "{B325AD7D-1918-4C4F-A8C8-4E1D00806A39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCloud.MVC", "AppCloud.MVC\AppCloud.MVC.csproj", "{0D9F1B33-9A55-46B3-AF04-077751F6ABA9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCloudMVC3", "AppCloudMVC3\AppCloudMVC3.csproj", "{70E90B58-A49B-4239-8F9D-9AF95F3EC3F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{B325AD7D-1918-4C4F-A8C8-4E1D00806A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B325AD7D-1918-4C4F-A8C8-4E1D00806A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B325AD7D-1918-4C4F-A8C8-4E1D00806A39}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0D9F1B33-9A55-46B3-AF04-077751F6ABA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0D9F1B33-9A55-46B3-AF04-077751F6ABA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0D9F1B33-9A55-46B3-AF04-077751F6ABA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0D9F1B33-9A55-46B3-AF04-077751F6ABA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E90B58-A49B-4239-8F9D-9AF95F3EC3F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E90B58-A49B-4239-8F9D-9AF95F3EC3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E90B58-A49B-4239-8F9D-9AF95F3EC3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E90B58-A49B-4239-8F9D-9AF95F3EC3F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
