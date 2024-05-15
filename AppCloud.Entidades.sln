@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCloud.Entidades", "AppCl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCloud.API", "AppCloud.API\AppCloud.API.csproj", "{BA1D66D0-C42B-4089-959D-D9DB1F6E26DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCloud.ConsumeAPI", "AppCloud.ConsumeAPI\AppCloud.ConsumeAPI.csproj", "{B325AD7D-1918-4C4F-A8C8-4E1D00806A39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCloud.MVC", "AppCloud.MVC\AppCloud.MVC.csproj", "{0D9F1B33-9A55-46B3-AF04-077751F6ABA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{BA1D66D0-C42B-4089-959D-D9DB1F6E26DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA1D66D0-C42B-4089-959D-D9DB1F6E26DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA1D66D0-C42B-4089-959D-D9DB1F6E26DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B325AD7D-1918-4C4F-A8C8-4E1D00806A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B325AD7D-1918-4C4F-A8C8-4E1D00806A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B325AD7D-1918-4C4F-A8C8-4E1D00806A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B325AD7D-1918-4C4F-A8C8-4E1D00806A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D9F1B33-9A55-46B3-AF04-077751F6ABA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9F1B33-9A55-46B3-AF04-077751F6ABA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9F1B33-9A55-46B3-AF04-077751F6ABA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9F1B33-9A55-46B3-AF04-077751F6ABA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
