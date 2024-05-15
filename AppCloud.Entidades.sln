@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCloud.Entidades", "AppCloud.Entidades\AppCloud.Entidades.csproj", "{9273F912-E499-4F86-AA7B-99C29454C57E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCloud.API", "AppCloud.API\AppCloud.API.csproj", "{BA1D66D0-C42B-4089-959D-D9DB1F6E26DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9273F912-E499-4F86-AA7B-99C29454C57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9273F912-E499-4F86-AA7B-99C29454C57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9273F912-E499-4F86-AA7B-99C29454C57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9273F912-E499-4F86-AA7B-99C29454C57E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1D66D0-C42B-4089-959D-D9DB1F6E26DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1D66D0-C42B-4089-959D-D9DB1F6E26DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1D66D0-C42B-4089-959D-D9DB1F6E26DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1D66D0-C42B-4089-959D-D9DB1F6E26DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75F35A60-67AF-466B-BC27-7955DA23205C}
+	EndGlobalSection
+EndGlobal
